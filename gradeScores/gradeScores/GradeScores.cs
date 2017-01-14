@@ -8,7 +8,7 @@ using System.IO;
 
 namespace TransmaxLvl2RequirementsTest
 {
-    class Program
+    public class GradeScores
     {
         const int command1 = 13; //Index of end of "grade-scores " begining of file path
         static void Main(string[] args)
